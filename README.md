@@ -7,7 +7,7 @@
 <img align="right" alt="Hasmik Grigoryan" src="images/coding.gif" width="400" />
 
 <h1 align = "left">
-   ### Thanks for visiting :heart:
+  Thanks for visiting :heart:
   &emsp;
   
 </h1>
